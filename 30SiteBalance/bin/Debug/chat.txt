@@ -1,0 +1,14 @@
+2espn slow
+globalsides slow
+
+cannot display the webpage
+website cannot display the page
+
+
+Change delay to 30 seconds
+Sort out the waiting delay problem with 2espn and globalsides
+Remove error message boxes and write errors to log file
+Add retry option for failed sites
+Excel sheet formatting
+
+http://www.explorersports.net/Login.asp

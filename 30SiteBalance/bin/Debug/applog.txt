@@ -1,0 +1,4 @@
+22-01-2012 18:43:40 : Error on _2betez loading : Cannot access a disposed object.
+Object name: 'WebBrowser'.
+22-01-2012 18:43:40 : Error on _2betez reading : Cannot access a disposed object.
+Object name: 'WebBrowser'.
